@@ -1,3 +1,6 @@
+These scripts are inspired by the book 
+"Blue Team Handbook: Incident Response edition" by Don Murdoch - see http://goo.gl/g30dYK
+
 The simple scripts are designed to help you investigate signs of compromise on your system.
 
 They have been written for ubuntu based systems so som commands may not be available in other distros.
