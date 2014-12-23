@@ -47,7 +47,7 @@ echo
 echo "==========================="
 echo "==  show iptables ruless =="
 echo "==========================="
-iptables -l
+iptables -L
 echo
 echo
 
